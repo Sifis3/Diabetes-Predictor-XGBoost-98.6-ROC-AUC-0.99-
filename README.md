@@ -18,7 +18,7 @@ Model export for deployment
 
 Dataset Information
 Source: Kaggle (Healthcare Diabetes dataset)
-
+https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes
 Size: 520 instances, 17 features
 
 Target: Diabetic (0 = No, 1 = Yes)
@@ -39,7 +39,7 @@ Visual explanation of model performance included
 How to Use
 After downloading the notebook:
 
-jupyter notebook DiabetesXGBOOST.ipynb
+jupyter notebook diabetes-prediction-xgboost-98-6-roc-auc-0-99 .ipynb
 To use the model in your own pipeline:
 
 Preprocess your input data in the same way (scaling, feature selection).

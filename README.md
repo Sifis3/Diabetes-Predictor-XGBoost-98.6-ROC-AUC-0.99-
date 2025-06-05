@@ -19,6 +19,7 @@ Model export for deployment
 Dataset Information
 Source: Kaggle (Healthcare Diabetes dataset)
 https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes
+
 Size: 520 instances, 17 features
 
 Target: Diabetic (0 = No, 1 = Yes)
